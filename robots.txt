@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://fatkhurrosyid96-lang.github.io/SEDOT-WC-LANCAR-JAYA/sitemap.xml
